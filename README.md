@@ -16,7 +16,7 @@
 
 1. Download or clone this repository:
    ```bash
-   git clone https://github.com/yourusername/joke-extension.git
+   git clone https://github.com/harshita-521/Jokeify.git
 
 2. Open Chrome and go to chrome://extensions/
 
@@ -28,4 +28,4 @@
 
 That's it! Click the extension icon to get a fresh joke anytime
 
---
+---
